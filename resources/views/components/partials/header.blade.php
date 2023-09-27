@@ -1,7 +1,7 @@
 <header id="top-header" class="sticky top-0 z-50 bg-black/10 transition duration-300">
     <div class="container">
         <div class="flex items-center justify-between py-5 lg:py-0">
-            <a href="index.html"><img src="assets/images/logo.png" alt="logo" class="h-10"/></a>
+            <a href="{{route('index')}}"><img src="assets/images/logo.png" alt="logo" class="h-14"/></a>
             <div class="flex items-center">
                 <div onclick="toggleMenu()" class="overlay fixed inset-0 z-[51] hidden bg-black/60 lg:hidden"></div>
                 <div class="menus">
@@ -20,13 +20,13 @@
                         </button>
                     </div>
                     <ul>
-                        <li><a href="index.html" class="active">ראשי</a></li>
+                        <li><a href="{{route('index')}}" class="active">ראשי</a></li>
 
                         <li>
-                            <a href="portfolio.html">Portfolio</a>
+                            <a href="#" onclick="smoothScrollToSection('about')">אודות</a>
                         </li>
                         <li>
-                            <a href="services.html">Service</a>
+                            <a href="#" onclick="smoothScrollToSection('services')">שירותים</a>
                         </li>
                         <li>
                             <a href="team.html">Team</a>

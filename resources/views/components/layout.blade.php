@@ -4,9 +4,9 @@
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Wikings</title>
+    <title>{{ $title }}</title>
     <!-- Favicon -->
-    <link rel="icon" type="icon" href="assets/images/favicon.png"/>
+    <link rel="icon" type="icon" href="assets/images/logo.png"/>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;700&display=swap" rel="stylesheet">
     <!-- Swiper Slider -->
@@ -25,15 +25,7 @@
 >
     <x-partials.header/>
     <div class="-mt-[82px] flex-grow overflow-x-hidden lg:-mt-[106px]">
-        <x-landing.hero/>
-        <x-landing.services/>
-        <x-landing.facts/>
-        <x-landing.benefits/>
-        <x-landing.projects/>
-        <x-landing.team/>
-        <x-landing.prices/>
-        <x-landing.testimonials/>
-        <x-landing.contact/>
+        {{ $slot }}
     </div>
     <x-partials.footer/>
 </div>
@@ -50,3 +42,4 @@
 <script src="assets/js/custom.js"></script>
 </body>
 </html>
+

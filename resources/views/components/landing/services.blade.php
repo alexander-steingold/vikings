@@ -1,8 +1,10 @@
 <section
-    class="bg-[url(../images/service-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-none lg:py-[100px]">
+    class="bg-[url(../images/service-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-none lg:py-[100px]"
+    id="services"
+>
     <div class="container">
         <div class="heading text-center">
-            <h6>High - Impact Services</h6>
+            <h6> למה ויקינגים...? כי יש דברים שרק ויקינגים יודעים לעשות!</h6>
             <h4>We help Brands with</h4>
         </div>
         <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
