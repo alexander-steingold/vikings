@@ -1,14 +1,20 @@
-<div
-    class="relative my-14 mx-auto border-[10px] border-transparent bg-black py-14 dark:border-black dark:bg-gray-dark lg:my-[100px] lg:py-[100px] xl:max-w-[1440px] xl:rounded-3xl"
->
-    <div class="container">
-        <div class="items-end gap-4 lg:flex xl:gap-0">
+<div class="container py-14  lg:py-[100px]">
+    <div class="text-xl text-center  mb-8 font-semibold">
+        <h5 class="text-secondary mb-2">
+            יתרונות
+        </h5>
+        <h4 class="text-white ">
+            אז למה בעצם כדאי לעבוד עם חברת "ויקינגים"
+        </h4>
+    </div>
+    <div
+        class="relative  mx-auto border-[10px] border-transparent bg-black dark:border-black lg:mt-[40px] lg:px-[40px] lg:py-[40px] xl:max-w-[1440px] xl:rounded-3xl"
+        id="benefits"
+    >
+
+        <div class="items-end gap-2 lg:flex lg:items-center">
             <div class="lg:w-1/2">
-                <div class="heading mb-16 text-center ltr:lg:text-left rtl:lg:text-right">
-                    <h6>What Makes us Different?</h6>
-                    <h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make
-                        life easier for our customers.</h4>
-                </div>
+
                 <div class="grid gap-x-7 gap-y-12 sm:grid-cols-2" data-aos="fade-right"
                      data-aos-duration="1000">
                     <div class="flex transition">
@@ -34,8 +40,12 @@
                             </svg>
                         </div>
                         <div class="ltr:pl-3 rtl:pr-3">
-                            <h4 class="mb-2 text-lg font-bold text-white">Creativity</h4>
-                            <p class="font-semibold">Curabitur blandit lacus porttitor ridiculus mus.</p>
+                            <h4 class="mb-2 text-lg font-bold text-white">
+                                נסיון רב שנים
+                            </h4>
+                            <p class="font-semibold">
+                                15+ שנות נסיון בתחומים שונים עבור מערכות שירות של בית
+                            </p>
                         </div>
                     </div>
                     <div class="flex transition">
@@ -108,9 +118,12 @@
                             </svg>
                         </div>
                         <div class="ltr:pl-3 rtl:pr-3">
-                            <h4 class="mb-2 text-lg font-bold text-white">Innovative Thinking</h4>
-                            <p class="font-semibold">There are many variations of passages of Lorem Ipsum
-                                available</p>
+                            <h4 class="mb-2 text-lg font-bold text-white">
+                                מחירים מציאותיים
+                            </h4>
+                            <p class="font-semibold">
+                                מחירים הנוחים לכל כיס, בלי לפגוע באיכות השירות ותוצאה
+                            </p>
                         </div>
                     </div>
                     <div class="flex transition">
@@ -146,9 +159,12 @@
                             </svg>
                         </div>
                         <div class="ltr:pl-3 rtl:pr-3">
-                            <h4 class="mb-2 text-lg font-bold text-white">Rapid Solutions</h4>
-                            <p class="font-semibold">Contrary to popular belief, Lorem Ipsum is not simply
-                                random text.</p>
+                            <h4 class="mb-2 text-lg font-bold text-white">
+                                חשיבה יצירתית
+                            </h4>
+                            <p class="font-semibold">
+                                ביצוע של כל סוגי פרוייקטים לעסקים ולקוחות פרטיים
+                            </p>
                         </div>
                     </div>
                     <div class="flex transition">
@@ -174,18 +190,19 @@
                             </svg>
                         </div>
                         <div class="ltr:pl-3 rtl:pr-3">
-                            <h4 class="mb-2 text-lg font-bold text-white">Top-Notch Support</h4>
+                            <h4 class="mb-2 text-lg font-bold text-white">
+                                שירות ותמיכת
+                            </h4>
                             <p class="font-semibold">
-                                It has survived not only five centuries, but also the leap into electronic
-                                typesetting
+                                שירות מקצועי ואדיב ללקוחות החברה בכל שלבי התקשרות
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div
-                class="top-1/2 mx-auto mt-10 ltr:right-5 rtl:left-5 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
-                <img src="assets/images/box-img.png" alt="box-img" class="w-full rtl:rotate-y-180"/>
+                class="lg:w-1/2 mx-auto ">
+                <img src="assets/images/vikings/v8.jpg" alt="box-img" class="w-full "/>
             </div>
         </div>
     </div>

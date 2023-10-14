@@ -1,7 +1,7 @@
 <header id="top-header" class="sticky top-0 z-50 bg-black/10 transition duration-300">
     <div class="container">
         <div class="flex items-center justify-between py-5 lg:py-0">
-            <a href="{{route('index')}}"><img src="assets/images/logo.png" alt="logo" class="h-14"/></a>
+            <a href="{{route('index')}}"><img src="assets/images/logo.png" alt="logo" class="h-12"/></a>
             <div class="flex items-center">
                 <div onclick="toggleMenu()" class="overlay fixed inset-0 z-[51] hidden bg-black/60 lg:hidden"></div>
                 <div class="menus">
@@ -20,22 +20,24 @@
                         </button>
                     </div>
                     <ul>
-                        <li><a href="{{route('index')}}" class="active">ראשי</a></li>
-
+                        <li><a href="{{route('index')}}">ראשי</a></li>
                         <li>
-                            <a href="#" onclick="smoothScrollToSection('about')">אודות</a>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('about')">אודות</a>
                         </li>
                         <li>
-                            <a href="#" onclick="smoothScrollToSection('services')">שירותים</a>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('services')">שירותים</a>
                         </li>
                         <li>
-                            <a href="team.html">Team</a>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('team')">הנהלה</a>
                         </li>
                         <li>
-                            <a href="about-us.html">About Us</a>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('facts')">עובדות</a>
                         </li>
                         <li>
-                            <a href="career.html">Career</a>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('benefits')">יתרונות</a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" onclick="smoothScrollToSection('contact')">צור קשר</a>
                         </li>
                         {{--                        <li--}}
                         {{--                            class="relative hidden items-center before:absolute before:top-1/2 before:h-[30px] before:w-[2px] before:-translate-y-1/2 before:bg-gray/30 ltr:pl-9 ltr:before:-left-[2px] rtl:pr-9 rtl:before:-right-[2px] lg:inline-flex"--}}

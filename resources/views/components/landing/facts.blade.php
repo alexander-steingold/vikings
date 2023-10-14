@@ -1,9 +1,13 @@
-<section class="py-8 dark:!bg-none lg:py-[50px]"
-         style="background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 54.69%)">
+<section class="py-20 dark:!bg-none lg:py-[50px]"
+         style="background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 54.69%)" id="facts">
     <div class="container">
-        <div class="heading text-center">
-            <h6>Company Facts</h6>
-            <h4>We are proud of our team</h4>
+        <div class="text-xl text-center mb-8 font-semibold">
+            <h5 class="text-secondary mb-2">
+                עובדות
+            </h5>
+            <h4 class="text-white ">
+                נסיון רב שנים מוכח בתחום ותוצאות מרהיבות בשטח
+            </h4>
         </div>
         <div class="grid gap-[30px] sm:grid-cols-2 lg:grid-cols-4">
             <div data-aos="fade-up" data-aos-duration="1000">
@@ -42,13 +46,13 @@
                             class="pb-2.5 text-4xl font-black leading-none transition dark:text-white dark:group-hover:text-black"
                             data-vanilla-counter
                             data-start-at="0"
-                            data-end-at="10"
+                            data-end-at="15"
                             data-time="4000"
                             data-delay="1000"
                             data-format="{}+"
                         ></h4>
                         <span
-                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">Year in Business</span>
+                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">שנות פעילות בשוק</span>
                     </div>
                 </div>
             </div>
@@ -88,13 +92,13 @@
                             class="pb-2.5 text-4xl font-black leading-none transition dark:text-white dark:group-hover:text-black"
                             data-vanilla-counter
                             data-start-at="0"
-                            data-end-at="120"
+                            data-end-at="25"
                             data-time="4000"
                             data-delay="1000"
                             data-format="{}+"
                         ></h4>
                         <span
-                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">Team Members</span>
+                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">מקצועני צוות והחברה</span>
                     </div>
                 </div>
             </div>
@@ -134,13 +138,13 @@
                             class="pb-2.5 text-4xl font-black leading-none transition dark:text-white dark:group-hover:text-black"
                             data-vanilla-counter
                             data-start-at="0"
-                            data-end-at="350"
+                            data-end-at="250"
                             data-time="4000"
                             data-delay="1000"
                             data-format="{}+"
                         ></h4>
                         <span
-                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">Happy Clients</span>
+                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">לקוחות מרוצים ומסורים</span>
                     </div>
                 </div>
             </div>
@@ -180,13 +184,13 @@
                             class="pb-2.5 text-4xl font-black leading-none transition dark:text-white dark:group-hover:text-black"
                             data-vanilla-counter
                             data-start-at="0"
-                            data-end-at="1254"
+                            data-end-at="750"
                             data-time="4000"
                             data-delay="1000"
                             data-format="{}+"
                         ></h4>
                         <span
-                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">Project Done</span>
+                            class="font-bold text-black transition dark:text-gray dark:group-hover:text-black">פרוייקטים ופתרונות בוצעו</span>
                     </div>
                 </div>
             </div>
