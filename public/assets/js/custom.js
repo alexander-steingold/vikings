@@ -65,43 +65,43 @@ const setOnScroll = () => {
 };
 setOnScroll();
 
-// Light - Dark Mode
-const toggleTheme = (isFirstTime = false) => {
-    let theme = window.localStorage.getItem('theme') || 'light';
-
-    if (!isFirstTime) {
-        theme = theme === 'light' ? 'dark' : 'light';
-    }
-    window.localStorage.setItem('theme', theme);
-
-    if (theme === 'dark') {
-        document.querySelector('body').classList.add('dark');
-    } else {
-        document.querySelector('body').classList.remove('dark');
-    }
-};
-
-toggleTheme(true);
+// // Light - Dark Mode
+// const toggleTheme = (isFirstTime = false) => {
+//     let theme = window.localStorage.getItem('theme') || 'light';
+//
+//     if (!isFirstTime) {
+//         theme = theme === 'light' ? 'dark' : 'light';
+//     }
+//     window.localStorage.setItem('theme', theme);
+//
+//     if (theme === 'dark') {
+//         document.querySelector('body').classList.add('dark');
+//     } else {
+//         document.querySelector('body').classList.remove('dark');
+//     }
+// };
+//
+// toggleTheme(true);
 
 // rtl
-const toggleDirection = (isFirstTime = false) => {
-    let direction = window.localStorage.getItem('direction') || 'ltr';
-
-    if (!isFirstTime) {
-        direction = direction === 'ltr' ? 'rtl' : 'ltr';
-    }
-    window.localStorage.setItem('direction', direction);
-
-    if (direction === 'rtl') {
-        document.querySelector('html').setAttribute('dir', 'rtl');
-    } else {
-        document.querySelector('html').setAttribute('dir', 'ltr');
-    }
-    if (!isFirstTime) {
-        window.location.reload();
-    }
-};
-toggleDirection(true);
+// const toggleDirection = (isFirstTime = false) => {
+//     let direction = window.localStorage.getItem('direction') || 'ltr';
+//
+//     if (!isFirstTime) {
+//         direction = direction === 'ltr' ? 'rtl' : 'ltr';
+//     }
+//     window.localStorage.setItem('direction', direction);
+//
+//     if (direction === 'rtl') {
+//         document.querySelector('html').setAttribute('dir', 'rtl');
+//     } else {
+//         document.querySelector('html').setAttribute('dir', 'ltr');
+//     }
+//     if (!isFirstTime) {
+//         window.location.reload();
+//     }
+// };
+// toggleDirection(true);
 
 // current year
 const ele = document.querySelectorAll('.curr-year');
