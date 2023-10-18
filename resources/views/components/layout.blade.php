@@ -18,7 +18,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <link rel="stylesheet" href="assets/css/style.css"/>
 </head>
-<body class="overflow-x-hidden dark">
+<body class="overflow-x-hidden dark dark">
 <x-partials.loader/>
 <div
     class="flex min-h-screen flex-col  font-mulish text-base font-normal text-gray antialiased bg-[#101926] from-transparent to-transparent"
