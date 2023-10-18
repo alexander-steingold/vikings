@@ -1,4 +1,4 @@
-<x-layout title="ויקינגים - שיפוצים, תחזוקה ועבודות גמר של הבית">
+<x-layout title="שיפוצי בית - שירותי הנדימן - שידרוג מטבח - עבודות גמר - בדיקת נכס">
     <x-landing.hero/>
     <x-landing.about/>
     <x-landing.services/>

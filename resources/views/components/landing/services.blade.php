@@ -151,7 +151,7 @@
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINKS</span>
-                        בדיקת דירה
+                        בדיקת נכס
                     </a
                     >
                     <p class="mb-10 text-lg font-medium transition line-clamp-5 dark:group-hover:text-black">
