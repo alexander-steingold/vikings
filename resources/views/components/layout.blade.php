@@ -14,8 +14,9 @@
     <!-- AOS Animation CSS -->
     <link href="assets/css/aos.css" rel="stylesheet"/>
     <!-- Style CSS -->
-
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    
+    @vite('resources/css/app.css')
+    @vite('resources/js/app.js')
     <link rel="stylesheet" href="assets/css/style.css"/>
 </head>
 <body class="overflow-x-hidden dark">
@@ -40,6 +41,7 @@
 <script src="assets/js/aos.js"></script>
 <!-- Custom Js -->
 <script src="assets/js/custom.js"></script>
+
 </body>
 </html>
 

@@ -10,7 +10,8 @@
                 לפני קנייה, תחזוקה ושידרוג מערכות
                 שירות של הבית, ייעוץ וליווי מקצועי
             </h2>
-            <a href="#" class="btn py-2 px-4 text-lg rounded-md bg-white" onclick="smoothScrollToSection('about')">
+            <a href="javascript:void(0)" class="btn py-2 px-4 text-lg rounded-md bg-white"
+               onclick="smoothScrollToSection('about')">
                 נעים להכיר!
             </a>
         </div>

@@ -58,7 +58,8 @@ module.exports = {
         },
     },
     plugins: [
-        require('@tailwindcss/line-clamp'), rotateX, require('@tailwindcss/typography'),
+        rotateX,
+        require('@tailwindcss/typography'),
         require("tw-elements/dist/plugin.cjs")
     ],
 };
