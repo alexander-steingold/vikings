@@ -1,5 +1,5 @@
 <section
-    class="bg-[url(../images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-black/50 lg:py-[100px]"
+    class=" bg-cover bg-center bg-no-repeat py-14 dark:bg-black/50 lg:py-[100px]"
     id="team">
     <div class="container">
         <div class="text-xl text-center mb-10 font-semibold">

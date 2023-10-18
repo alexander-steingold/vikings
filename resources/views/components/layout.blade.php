@@ -21,7 +21,7 @@
 <body class="overflow-x-hidden dark">
 <x-partials.loader/>
 <div
-    class="flex min-h-screen flex-col bg-white bg-gradient-to-r from-[#FCF1F4] to-[#EDFBF9] font-mulish text-base font-normal text-gray antialiased dark:bg-[#101926] dark:from-transparent dark:to-transparent"
+    class="flex min-h-screen flex-col  font-mulish text-base font-normal text-gray antialiased bg-[#101926] from-transparent to-transparent"
 >
     <x-partials.header/>
     <div class="-mt-[82px] flex-grow overflow-x-hidden lg:-mt-[106px]">
