@@ -27,7 +27,7 @@
                     <div class="mt-2">
                         <a href="tel:0501234567"
                            class="bg-secondary py-1 px-3 rounded-xl text-2xl font-bold text-white transition hover:bg-warning">
-                            0501234567
+                            {{ config('app.phone') }}
                         </a>
                     </div>
                 </div>
