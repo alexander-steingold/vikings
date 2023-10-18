@@ -22,7 +22,7 @@
                     <ul>
 
                         <li>
-                            <a href="{{route('index')}}">ראשיd</a>
+                            <a href="{{route('index')}}">ראשי</a>
                         </li>
                         <li>
                             <a href="javascript:void(0)" onclick="smoothScrollToSection('about')">אודות</a>
