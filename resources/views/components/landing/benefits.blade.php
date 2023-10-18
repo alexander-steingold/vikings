@@ -119,7 +119,7 @@
                         </div>
                         <div class="ltr:pl-3 rtl:pr-3">
                             <h4 class="mb-2 text-lg font-bold text-white">
-                                מחירים מציאותיים
+                                מחירים הוגנים
                             </h4>
                             <p class="font-semibold">
                                 מחירים הנוחים לכל כיס, בלי לפגוע באיכות השירות ותוצאה
