@@ -20,7 +20,10 @@
                         </button>
                     </div>
                     <ul>
-                        <li><a href="{{route('index')}}">ראשי</a></li>
+
+                        <li>
+                            <a href="{{route('index')}}">ראשי</a>
+                        </li>
                         <li>
                             <a href="javascript:void(0)" onclick="smoothScrollToSection('about')">אודות</a>
                         </li>
@@ -38,6 +41,11 @@
                         </li>
                         <li>
                             <a href="javascript:void(0)" onclick="smoothScrollToSection('contact')">צור קשר</a>
+                        </li>
+                        <li>
+                            <a href="tel:{{ config('app.phone') }}" class="text-secondary">
+                                {{ config('app.phone') }}
+                            </a>
                         </li>
                         {{--                        <li--}}
                         {{--                            class="relative hidden items-center before:absolute before:top-1/2 before:h-[30px] before:w-[2px] before:-translate-y-1/2 before:bg-gray/30 ltr:pl-9 ltr:before:-left-[2px] rtl:pr-9 rtl:before:-right-[2px] lg:inline-flex"--}}
