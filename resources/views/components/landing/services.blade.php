@@ -25,7 +25,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         שיפוצי בית
 
                     </a
@@ -68,7 +68,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         עבודות גמר
                     </a
                     >
@@ -109,7 +109,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         שירותי הנדימן
                     </a
                     >
@@ -150,7 +150,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         בדיקת נכס
                     </a
                     >
@@ -192,7 +192,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         שידרוג מטבח
                     </a
                     >
@@ -234,7 +234,7 @@
                         href="services-detail.html"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
-                        <span class="text-secondary font-semibold">VIKINKS</span>
+                        <span class="text-secondary font-semibold">VIKINGS</span>
                         עיצוב פנים
                     </a
                     >
