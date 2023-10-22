@@ -22,7 +22,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
@@ -65,7 +65,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
@@ -106,7 +106,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
@@ -147,7 +147,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
@@ -189,7 +189,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
@@ -231,7 +231,7 @@
                         <img src="assets/images/logo.png" width="36">
                     </div>
                     <a
-                        href="services-detail.html"
+                        href="#"
                         class="my-8 inline-block text-[20px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                     >
                         <span class="text-secondary font-semibold">VIKINGS</span>
