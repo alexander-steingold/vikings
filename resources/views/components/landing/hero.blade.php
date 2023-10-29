@@ -38,7 +38,7 @@
             style="backface-visibility: hidden">
             <video class="w-full  opacity-40" autoplay loop muted>
                 <source
-                    src="{{url("assets/videos/video1.mp4")}}"
+                    src="{{url("assets/videos/video1_2.mp4")}}"
                     type="video/mp4"/>
             </video>
             <x-landing.intro/>
@@ -54,7 +54,7 @@
             {{--                alt="..."/>--}}
             <video class="w-full  opacity-40" autoplay loop muted>
                 <source
-                    src="{{url("assets/videos/video2.mp4")}}"
+                    src="{{url("assets/videos/video2_2.mp4")}}"
                     type="video/mp4"/>
             </video>
             <x-landing.intro/>
@@ -67,7 +67,8 @@
 
             <video class="w-full  opacity-40" autoplay loop muted>
                 <source
-                    src="{{url("assets/videos/video3.mp4")}}"
+                    src="{{url("assets/videos/video3_2
+.mp4")}}"
                     type="video/mp4"/>
             </video>
             <x-landing.intro/>

@@ -30,9 +30,9 @@
                         <li>
                             <a href="javascript:void(0)" onclick="smoothScrollToSection('services')">שירותים</a>
                         </li>
-                        <li>
-                            <a href="javascript:void(0)" onclick="smoothScrollToSection('team')">הנהלה</a>
-                        </li>
+                        {{--                        <li>--}}
+                        {{--                            <a href="javascript:void(0)" onclick="smoothScrollToSection('team')">הנהלה</a>--}}
+                        {{--                        </li>--}}
                         <li>
                             <a href="javascript:void(0)" onclick="smoothScrollToSection('facts')">עובדות</a>
                         </li>

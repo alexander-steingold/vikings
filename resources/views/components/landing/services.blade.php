@@ -1,5 +1,5 @@
 <section
-    class=" bg-cover bg-center bg-no-repeat py-14  lg:py-[100px] "
+    class=" bg-cover bg-center bg-no-repeat pt-14  "
     id="services"
 >
     <div class="container">

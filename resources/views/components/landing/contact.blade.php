@@ -4,7 +4,7 @@
 
             <div class=" md:pl-12" data-aos="fade-left"
                  data-aos-duration="1000">
-                <img src="assets/images/vikings/v11.jpg" alt="" class="rotate-y-180"/>
+                <img src="assets/images/vikings/contact.jpg" alt="" class="rotate-y-180"/>
             </div>
             <div class="py-5">
                 <div class="text-center md:ltr:text-left lg:w-3/4">

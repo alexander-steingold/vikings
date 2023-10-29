@@ -12,7 +12,7 @@
             <div>
                 <div class="mt-2.5 text-lg">
                     <div class="mb-4">
-                        חברת "ויקינגים" בניהולו של דניס אברמנקו - "ויקינג", הוקמה על ידי מספר שותפים בעלי מקצוע רשמיים,
+                        חברת "ויקינגים" הוקמה על ידי מספר שותפים בעלי מקצוע רשמיים,
                         לאחר
                         נסיון
                         רב שנים
@@ -35,7 +35,7 @@
 
             </div>
             <div class="mx-auto max-w-[540px]" data-aos="fade-up" data-aos-duration="1000">
-                <img src="assets/images/vikings/about.jpg" class="rtl:rotate-y-180" alt=""/>
+                <img src="assets/images/vikings/about2.jpg" class="rtl:rotate-y-180" alt=""/>
             </div>
         </div>
     </div>

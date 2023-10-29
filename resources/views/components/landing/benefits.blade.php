@@ -1,4 +1,4 @@
-<div class="container py-14  lg:py-[100px]">
+<div class="container py-14  ">
     <div class="text-xl text-center  mb-8 font-semibold">
         <h5 class="text-secondary mb-2">
             יתרונות
@@ -202,7 +202,7 @@
             </div>
             <div
                 class="lg:w-1/2 mx-auto ">
-                <img src="assets/images/vikings/v8.jpg" alt="box-img" class="w-full "/>
+                <img src="assets/images/vikings/benefits.jpg" alt="box-img" class="w-full "/>
             </div>
         </div>
     </div>
