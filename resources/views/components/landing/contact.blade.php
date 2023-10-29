@@ -18,11 +18,11 @@
                         <h2 class="text-2xl font-black leading-tight text-white  mb-2">
                             לייעוץ חינם וללא התחייבות התקשרו עוד היום
                         </h2>
-                        <div class="text-sm font-semibold mb-2">
+                        {{--                        <div class="text-sm font-semibold mb-2">--}}
 
-                            לקבלת 20% הנחה על הזמנת שירות ראשונה השתמשו בקוד
-                            "<span class="text-secondary ">VIKINGS2023</span>"
-                        </div>
+                        {{--                            לקבלת 20% הנחה על הזמנת שירות ראשונה השתמשו בקוד--}}
+                        {{--                            "<span class="text-secondary ">VIKINGS2023</span>"--}}
+                        {{--                        </div>--}}
                     </div>
                     <div class="mt-2">
                         <a href="tel:0501234567"
